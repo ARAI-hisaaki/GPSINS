@@ -12,7 +12,7 @@ X_ins = [r_i v_i q_bi aBias wBias]T 0-2 3-5 6-9 10-12 13-15
 参考にした論文
 システムモデル：GPS/INS Kalman Filter Design for Spacecraft Operating in the Proximity of International Space Station
 連続時間システムから離散時間システムへの式展開方法：搬送波位相DGPS/INS 複合航法アルゴリズムの開発
-
+フィルタの試験方法（予定）：Assesment of integrated GPS/INS for the EX-171 Extended Range Guided Munition
 """
 
 import numpy as np
